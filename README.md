@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aastha Oswal</h1>
 <h3 align="center">🚀 Full Stack Developer (MERN) | Lifelong Learner | Forever Curious | Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aasthaoswal&label=Profile%20views&color=0e75b6&style=flat" alt="aasthaoswal" /> </p>
+- 🌱 I’m currently learning **: More and more in **Full Stack Development (MERN)** — React ⚛️, Node.js 🟢, MongoDB 🍃, and anything new I can try!**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aasthaoswal" alt="aasthaoswal" /></a> </p>
+- 👯 I’m looking to collaborate on **: 💡 Anything interesting — hackathons, projects, etc.**
 
-- 🌱 I’m currently learning **More and more in **Full Stack Development (MERN)** — React ⚛️, Node.js 🟢, MongoDB 🍃, and anything new I can try!**
+- 🤝 I’m looking for help with **: 🛠 Tips and tricks in full-stack development, ☁️ cloud deployment, and how to make better open-source contributions.**
 
-- 👯 I’m looking to collaborate on **💡 Anything interesting — hackathons, projects, etc.**
+- 👨‍💻 All of my projects are available at [https://github.com/AasthaOswal?tab=repositories](https://github.com/AasthaOswal?tab=repositories)
 
-- 🤝 I’m looking for help with **🛠 Tips and tricks in full-stack development, ☁️ cloud deployment, and how to make better open-source contributions.**
-
-- 👨‍💻 All of my projects are available at [👉 [My GitHub Repositories](https://github.com/AasthaOswal?tab=repositories)](👉 [My GitHub Repositories](https://github.com/AasthaOswal?tab=repositories))
-
-- 💬 Ask me about **Full Stack Development, React, Git & GitHub basics**
+- 💬 Ask me about **: Full Stack Development, React, Git & GitHub basics**
 
 - 📫 How to reach me **aasthaoswal29@gmail.com**
 
-- ⚡ Fun fact **I sometimes break code just to fix it better 😅**
+- ⚡ Fun fact **: I sometimes break code just to fix it better 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
