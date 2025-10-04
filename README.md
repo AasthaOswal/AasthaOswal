@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aastha Oswal</h1>
 <h3 align="center">🚀 Full Stack Developer (MERN) | Lifelong Learner | Forever Curious | Engineering Student</h3>
 
-- 🌱 I’m currently learning **: More and more in **Full Stack Development (MERN)** — React ⚛️, Node.js 🟢, MongoDB 🍃, and anything new I can try!**
+- 🌱 I’m currently learning **: More and more in **Full Stack Development (MERN)** — React, Node.js, MongoDB, and anything new I can try!**
 
-- 👯 I’m looking to collaborate on **: 💡 Anything interesting — hackathons, projects, etc.**
+- 👯 I’m looking to collaborate on **: Anything interesting — hackathons, projects, etc.**
 
-- 🤝 I’m looking for help with **: 🛠 Tips and tricks in full-stack development, ☁️ cloud deployment, and how to make better open-source contributions.**
+- 🤝 I’m looking for help with **: Tips and tricks in full-stack development, cloud deployment, and how to make better open-source contributions.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AasthaOswal?tab=repositories](https://github.com/AasthaOswal?tab=repositories)
 
