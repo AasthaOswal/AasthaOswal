@@ -2,18 +2,6 @@
 <h3 align="center">🚀 Full Stack Developer (MERN) | Lifelong Learner | Forever Curious | Engineering Student</h3>
 
 
-
-
-
-
-- 🌱 I’m currently learning **Full Stack Development (MERN)** — React, Node.js, MongoDB, and exploring new technologies.  
-- 👯 I’m looking to collaborate on **hackathons, interesting projects, and open-source contributions**.  
-- 🤝 I’m looking for help with **full-stack development tips, cloud deployment, and open-source contributions**.  
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/AasthaOswal?tab=repositories)  
-- 💬 Ask me about **Full Stack Development, React, Git & GitHub basics**  
-- 📫 How to reach me: **aasthaoswal29@gmail.com**  
-- ⚡ Fun fact: I sometimes break code just to fix it better 😅
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aasthaoswal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -29,6 +17,18 @@
   <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="60" />
   <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" height="60" />
 </p>
+
+
+
+🌱 I’m currently learning **Full Stack Development (MERN)** — React, Node.js, MongoDB, and exploring new technologies.  
+👯 I’m looking to collaborate on **hackathons, interesting projects, and open-source contributions**.  
+🤝 I’m looking for help with **full-stack development tips, cloud deployment, and open-source contributions**.  
+👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/AasthaOswal?tab=repositories)  
+💬 Ask me about **Full Stack Development, React, Git & GitHub basics**  
+📫 How to reach me: **aasthaoswal29@gmail.com**  
+⚡ Fun fact: I sometimes break code just to fix it better 😅
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
