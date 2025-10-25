@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aastha Oswal</h1>
+<h1 align="center">Hi👋, I'm Aastha Oswal</h1>
 <h3 align="center">🚀 Full Stack Developer (MERN) | Lifelong Learner | Forever Curious | Engineering Student</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=aasthaoswal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
