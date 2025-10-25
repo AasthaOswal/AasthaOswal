@@ -58,7 +58,15 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aasthaoswal&" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  [![An image of @aasthaoswal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aasthaoswal)](https://holopin.io/@aasthaoswal)
+<h3 align="left">Hacktoberfest 2025 Badges:</h3>
+<p align="left">
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" height="60" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" height="60" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" height="60" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" height="60" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" height="60" />
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="60" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" height="60" />
 </p>
+
 
