@@ -1,15 +1,10 @@
-<h2 align="left">Hi👋, I'm Aastha Oswal</h2>
-<h4 align="left">🚀 Full Stack Developer (MERN) | Lifelong Learner | Forever Curious | Engineering Student</h4>
+<h1 align="left">Hi👋, I'm Aastha Oswal</h1>
+<h3 align="left">🚀 Full Stack Developer (MERN) | Lifelong Learner | Forever Curious | Engineering Student</h3>
 
 <br>
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aasthaoswal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-
-<h3 align="left">Hacktoberfest 2025 Badges:</h3>
+<h4 align="left">Hacktoberfest 2025 Badges:</h4>
 <p align="left">
   <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" height="60" />
   <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" height="60" />
@@ -32,14 +27,14 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
   <a href="https://linkedin.com/in/aastha-oswal-94a179344" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> </a>
