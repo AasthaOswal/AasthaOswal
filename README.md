@@ -1,5 +1,5 @@
 <h1 align="left">Hi👋, I'm Aastha Oswal</h1>
-<h3 align="left">🚀 Full Stack Developer (MERN) | Lifelong Learner | Forever Curious | Engineering Student</h3>
+<h3 align="left">Full Stack Developer (MERN) | Lifelong Learner | Forever Curious | Engineering Student</h3>
 
 <br>
 
