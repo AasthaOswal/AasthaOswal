@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aastha Oswal</h1>
 <h3 align="center">🚀 Full Stack Developer (MERN) | Lifelong Learner | Forever Curious | Engineering Student</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aasthaoswal&label=Profile%20views&color=0e75b6&style=flat" alt="aasthaoswal" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aasthaoswal" alt="aasthaoswal" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🌱 I’m currently learning **: More and more in **Full Stack Development (MERN)** — React, Node.js, MongoDB, and anything new I can try!**
 
 - 👯 I’m looking to collaborate on **: Anything interesting — hackathons, projects, etc.**
