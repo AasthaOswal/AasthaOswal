@@ -1,5 +1,7 @@
-<h1 align="center">Hi👋, I'm Aastha Oswal</h1>
-<h3 align="center">🚀 Full Stack Developer (MERN) | Lifelong Learner | Forever Curious | Engineering Student</h3>
+<h2 align="left">Hi👋, I'm Aastha Oswal</h2>
+<h4 align="left">🚀 Full Stack Developer (MERN) | Lifelong Learner | Forever Curious | Engineering Student</h4>
+
+<br>
 
 
 <p align="left">
