@@ -58,14 +58,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aasthaoswal&" alt="GitHub Streak" />
 </p>
 
-<p>
-   <a >Hacktoberfest 2025: Level 0 Registered
-Hacktoberfest 2025: Level 2
-Hacktoberfest 2025: Level 1
-Hacktoberfest 2025: Level 3
-Hacktoberfest 2025: Level 4
-Hacktoberfest 2025: Tree Planted
-Hacktoberfest 2025: Supercontributor
-
-holopin.io/@aasthaoswal</a>
+<p align="center">
+  [![An image of @aasthaoswal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aasthaoswal)](https://holopin.io/@aasthaoswal)
 </p>
+
