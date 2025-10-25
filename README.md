@@ -6,14 +6,15 @@
 </p>
 
 
-<p align="center">
-  <!-- Hacktoberfest Badges -->
-  <a href="https://hacktoberfest.com">
-    <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?logo=hacktoberfest&style=for-the-badge" alt="Hacktoberfest 2025" />
-  </a>
-  <a href="https://github.com/aasthaoswal">
-    <img src="https://img.shields.io/badge/Pull%20Requests-10-brightgreen?style=for-the-badge" alt="Hacktoberfest PRs" />
-  </a>
+<h3 align="left">Hacktoberfest 2025 Badges:</h3>
+<p align="left">
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" height="60" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" height="60" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" height="60" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" height="60" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" height="60" />
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="60" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" height="60" />
 </p>
 
 
@@ -58,15 +59,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aasthaoswal&" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Hacktoberfest 2025 Badges:</h3>
-<p align="left">
-  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" height="60" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" height="60" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" height="60" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" height="60" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" height="60" />
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="60" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" height="60" />
-</p>
+
 
 
