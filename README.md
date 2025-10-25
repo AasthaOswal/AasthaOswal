@@ -59,5 +59,13 @@
 </p>
 
 <p>
-  <img src="https://www.holopin.io/hacktoberfest2025/userbadge/cmh6jwe5e0060jq041gsyw1zv" >
+   <a >Hacktoberfest 2025: Level 0 Registered
+Hacktoberfest 2025: Level 2
+Hacktoberfest 2025: Level 1
+Hacktoberfest 2025: Level 3
+Hacktoberfest 2025: Level 4
+Hacktoberfest 2025: Tree Planted
+Hacktoberfest 2025: Supercontributor
+
+holopin.io/@aasthaoswal</a>
 </p>
