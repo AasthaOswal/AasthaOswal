@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=aasthaoswal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=aasthaoswal&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
 
 <p align="center">
   <!-- Hacktoberfest Badges -->
@@ -20,11 +16,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
 
 - 🌱 I’m currently learning **Full Stack Development (MERN)** — React, Node.js, MongoDB, and exploring new technologies.  
 - 👯 I’m looking to collaborate on **hackathons, interesting projects, and open-source contributions**.  
@@ -65,4 +56,8 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aasthaoswal&" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://www.holopin.io/hacktoberfest2025/userbadge/cmh6jwe5e0060jq041gsyw1zv" >
 </p>
