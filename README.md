@@ -15,6 +15,8 @@
   <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" height="60" />
 </p>
 
+<br>
+<p>Check out my holopin profile here : <a href="https://www.holopin.io/@aasthaoswal#badges">Holopin Badges</a></p>
 
 
 🌱 I’m currently learning **Full Stack Development (MERN)** — React, Node.js, MongoDB, and exploring new technologies.  
