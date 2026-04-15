@@ -36,6 +36,10 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,postgres,java,git,tailwind" />
+</p>
+
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
