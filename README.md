@@ -37,13 +37,13 @@
 </p>
 
 
-
+<br>
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,java,git,postman" />
 </p>
 
-
+<br><br>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aasthaoswal&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
