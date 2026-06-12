@@ -19,12 +19,10 @@
 <p>Check out my holopin profile here : <a href="https://www.holopin.io/@aasthaoswal#badges">Holopin Badges</a></p>
 
 
-🌱 I’m currently learning **Full Stack Development (MERN)** — React, Node.js, MongoDB, and exploring new technologies.  
 👯 I’m looking to collaborate on **hackathons, interesting projects, and open-source contributions**.  
 🤝 I’m looking for help with **full-stack development tips, cloud deployment, and open-source contributions**.  
 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/AasthaOswal?tab=repositories)  
-💬 Ask me about **Full Stack Development, React, Git & GitHub basics**  
-📫 How to reach me: **aasthaoswal29@gmail.com**  
+💬 Ask me about **Full Stack Development, React, Git & GitHub, MERN**  
 ⚡ Fun fact: I sometimes break code just to fix it better 😅
 
 
