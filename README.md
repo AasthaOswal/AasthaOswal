@@ -2,7 +2,7 @@
 <h3 align="left">Full Stack Developer (MERN) | Lifelong Learner | Forever Curious | Engineering Student</h3>
 
 <br>
-
+![Profile Card](https://readmeme.eu.cc/api/profile.svg?avatar=https%3A%2F%2Fgithub.com%2FAasthaOswal.png&name=Aastha+Oswal&role=Full-Stack+Developer&bio=I+break+code+just+to+make+it+better.&skills=HTML%2CJS%2CREACT%2CNODE%2CGIT%2CSQL%2CMONGO%2CTAILWIND&handle=AasthaOswal&theme=classic)
 
 <h4 align="left">Hacktoberfest 2025 Badges:</h4>
 <p align="left">
