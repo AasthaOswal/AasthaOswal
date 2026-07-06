@@ -47,7 +47,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aasthaoswal&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aasthaoswal&" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com?user=aasthaoswal" alt="GitHub Streak" />
 </p>
 
 
