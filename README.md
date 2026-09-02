@@ -14,8 +14,6 @@ I build **full-stack applications, scalable backend systems, and AI-powered feat
 
 🤖 Interested in **AI/LLM integration and intelligent applications**
 
-🔐 Experienced with **REST APIs, JWT, RBAC, validation, and rate limiting**
-
 🌱 Active **open-source contributor**
 
 👥 Experience leading development teams and working with real users
