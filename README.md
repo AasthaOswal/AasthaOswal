@@ -1,215 +1,182 @@
-# Hi there! 👋 I'm Aastha Oswal
+# Hi, I'm Aastha Oswal 👋
 
-### Full Stack MERN Developer | AI Integration | Open Source Contributor | Life Long Learner | Forever Curious
+### Full-Stack MERN Developer · Backend Engineering · AI/LLM Integration · Open Source
 
-🌐 **Portfolio:** https://aastha-oswal.vercel.app  
-💼 **LinkedIn:** https://linkedin.com/in/aastha-oswal  
-🐙 **GitHub:** https://github.com/AasthaOswal  
-📧 **Email:** aasthaoswal29@gmail.com
+I build **full-stack applications, scalable backend systems, and AI-powered features** with a focus on clean architecture, security, and practical problem solving.
 
-![](https://komarev.com/ghpvc/?username=AasthaOswal&label=Profile%20Views&color=0e75b6&style=flat)
+[Portfolio](https://aastha-oswal.vercel.app) | [LinkedIn](https://linkedin.com/in/aastha-oswal) | [GitHub](https://github.com/AasthaOswal) | [Email](mailto:aasthaoswal29@gmail.com)
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-```txt
-💻 I enjoy building scalable backend systems and full-stack web applications.
-
-👯 Looking to collaborate on Open Source & Interesting Projects.
-
-💬 Ask me about MERN • Backend Development • REST APIs • JWT • LLM Integration • AI Integration.
-
-⚡ Fun Fact: I sometimes break code just to fix it better. 😅
-```
+💻 Full-stack developer focused on **MERN and backend development**
+🤖 Interested in **AI/LLM integration and intelligent applications**
+🔐 Experienced with **REST APIs, JWT, RBAC, validation, and rate limiting**
+🌱 Active **open-source contributor**
+👥 Experience leading development teams and working with real users
+🔎 Always curious about how systems work under the hood
 
 ---
 
-# 🚀 Experience
+## Experience
 
-## Backend Developer Intern
+### Backend Developer Intern
 
-### Department of Computer Engineering
+**Department of Computer Engineering** · Aug 2025 – Apr 2026
 
-📅 **Aug 2025 – Apr 2026**
+Worked as the **backend lead** for the Student Information Management System (SIMS), a centralized academic management platform developed in collaboration with faculty and student developers.
 
-Worked as the backend lead for the **Student Information Management System (SIMS)**, collaborating with faculty members and a team of developers to build a centralized academic management platform.
+**What I worked on**
 
-### 🛠 Tech Stack
+* Designed and developed secure **REST APIs** using Node.js and Express
+* Implemented **JWT authentication, RBAC, input validation, and rate limiting**
+* Integrated **Cloudinary** for file management
+* Implemented **Excel export functionality**
+* Led a team of **7 developers**
+* Collaborated directly with faculty and the Head of Department
+* Conducted user testing with **20 students** and incorporated feedback into the product
+* Successfully deployed the system for real-world use
 
-`React.js`
-`Node.js`
-`Express.js`
-`MongoDB`
-`Tailwind CSS`
-`JWT`
-`Cloudinary`
-`Joi`
+**Tech:** `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `JWT` `Cloudinary` `Joi`
 
-### Highlights
-
-- 🚀 Developed & deployed the Student Information Management System (SIMS)
-- 🔐 Built secure REST APIs with JWT Authentication, RBAC, Input Validation & Rate Limiting
-- ☁️ Integrated Cloudinary for file management and Excel export functionality
-- 👥 Led a team of **7 developers** while collaborating with faculty and the Head of Department
-- 👥 conducted user testing with **20 students** and incorporated feedback to improve system functionality.
-
-🔗 **Live:** https://sims.csidmce.com
-
-📂 **Repository:** Private
+**Live:** https://sims.csidmce.com
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
-## 💰 MoneyNest
+## MoneyNest
 
-### AI Powered Collaborative Family Finance Tracker
+### AI-Powered Collaborative Family Finance Platform
 
-> Full-stack MERN application for collaborative family expense tracking with AI-generated financial insights and real-time updates.
+An AI powered full-stack financial management application designed for families to collaboratively track income, expenses, investments, savings, and financial goals.
 
-### 🛠 Tech Stack
+**Highlights**
 
-`React`
-`Node`
-`Express`
-`MongoDB`
-`Tailwind`
-`Socket.io`
-`JWT`
-`Groq`
-`Llama 3.3 70B LLM`
+* Collaborative family finance management
+* Income, expense, investment, pre-investment saving & net saving tracking
+* AI-generated monthly financial reports
+* Automated email reporting pipeline powered by **Llama 3.3 70B**
+* Personal and collaborative financial goals
+* Real-time dashboard synchronization using **Socket.io**
+* Real-time in-app notifications
+* Scheduled background jobs for automated processing and retrying failed operations
+* Auth powered by JWT and Google OAuth 2.0
 
-### Features
+**Tech:** `React` `Node.js` `Express` `MongoDB` `Socket.io` `JWT` `Groq` `Llama 3.3 70B` `Cron`
 
-- 💰 Collaborative income, expense, investment, pre-investment saving & net saving tracking
-- 🤖 Engineered an AI powered automated monthly email-based reporting pipeline using Llama 3.3 70B LLM model
-- 📊 Collaborative and Personal Goal Tracking
-- 🔔 Real-time dashboard synchronization and in-app notifications using Socket.io
-- 🔐 JWT Authentication & Role Based Access Control
-
-🔗 **Live:** https://project-money-nest.vercel.app
-
-📂 **Repository:** https://github.com/AasthaOswal/MoneyNest
+**Live:** https://project-money-nest.vercel.app 
+**Source:** https://github.com/AasthaOswal/MoneyNest
 
 ---
 
-## 📚 BookOrbit
+## BookOrbit
 
-### Online Book Store
+### Full-Stack Online Bookstore
 
-> Full-stack MERN bookstore with authentication, authorisation, cart management, order management, and admin dashboard.
+A MERN-based e-commerce application featuring authentication, authorization, shopping workflows, order management, and an administrative dashboard.
 
-### 🛠 Tech Stack
+**Highlights**
 
-`React`
-`Node`
-`Express`
-`MongoDB`
+* Book browsing and search
+* Cart and wishlist management
+* Order management
+* Admin dashboard
+* Authentication and authorization
 
-### Features
+**Tech:** `React` `Node.js` `Express` `MongoDB`
 
-- 📚 Browse & Search Books
-- 🛒 Cart, Wishlist & Order Management
-- 👨‍💼 Admin Dashboard
-- 🔐 Secure Authentication
-
-🔗 **Live:** https://book-orbit-2025.vercel.app
-
-📂 **Repository:** https://github.com/AasthaOswal/BookOrbit
+**Live:** https://book-orbit-2025.vercel.app
+**Source:** https://github.com/AasthaOswal/BookOrbit
 
 ---
 
-# 🏆 Achievements
+# Open Source
+
+I actively contribute to open-source projects and enjoy working on codebases outside my own projects.
+
+* **23+ Pull Requests** successfully merged
+* Ranked **53 / 900+** participants in Nexus Spring of Code
+* **Hacktoberfest 2025** participant
+
+---
+
+# Achievements
 
 🏅 **Gold Medalist** — Rank 1 in Second Year Computer Engineering
 
-🚀 Ranked **53 / 900+** participants in **Nexus Spring of Code**
+🚀 **Nexus Spring of Code** — Ranked 53 / 900+ participants
 
-💻 Successfully merged **23 Pull Requests** across multiple open-source repositories
+💻 **Open Source** — 23+ successfully merged Pull Requests
 
-👩‍💻 Organized technical events for **200+ students** as **CSI DMCE Tech Team Member**
+🏆 **Code-a-thon** — Top 5 among 35+ teams
 
-💡 Finished **Top 5** among **35+ teams** in **Code-a-thon**
+👥 **CSI DMCE Tech Team** — Organized technical events for 200+ students
 
 ---
-## 💻 Tech Stack
+
+# Technical Skills
 
 ### Languages
 
-`Java`
-`JavaScript`
+`Java` `JavaScript`
 
 ### Frontend
 
-`HTML`
-`CSS`
-`React.js`
-`Tailwind CSS`
+`HTML` `CSS` `React.js` `Tailwind CSS`
 
 ### Backend
 
-`Node.js`
-`Express.js`
+`Node.js` `Express.js`
 
-### Database & Cloud
+### Databases
 
-`MongoDB`
-`MySQL`
-`Cloudinary`
-`Socket.io`
+`MongoDB` `MySQL`
 
-### Tools
+### Development Tools
 
-`Git`
-`GitHub`
-`Postman`
-`VS Code`
-`npm`
-### Backend Concepts
+`Git` `GitHub` `Postman` `VS Code` `npm`
 
-`REST APIs`
-`JWT Authentication`
-`Role-Based Access Control (RBAC)`
-`MVC Architecture`
-`Input Validation (Joi)`
-`Rate Limiting`
-`AI Integration`
-`LLM Integration`
+### Backend & Architecture
+
+`REST APIs` `JWT Authentication` `RBAC` `MVC` `Joi` `Rate Limiting` `Cron` `Socket.io`
+
+### AI
+
+`LLM Integration` `AI Integration` `Groq` `Llama`
+
+### Deployment
+
+`Vercel` `Render` `Mongo Atlas`
 
 ---
 
-# 📈 GitHub Stats
+# GitHub
 
-<img src="https://streak-stats.demolab.com?user=AasthaOswal&theme=tokyonight&hide_border=true"/>
-
----
-
-# 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AasthaOswal&theme=tokyo-night&hide_border=true"/>
-
----
-
-# 🎖 Hacktoberfest 2025
-
-<h4 align="left">Hacktoberfest 2025 Badges:</h4>
-<p align="left">
-  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" height="60" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" height="60" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" height="60" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" height="60" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" height="60" />
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="60" />
-  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" height="60" />
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AasthaOswal&theme=tokyonight&hide_border=true" />
 </p>
 
-<br>
-<p>Check out my holopin profile here : <a href="https://www.holopin.io/@aasthaoswal#badges">Holopin Badges</a></p>
-
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AasthaOswal&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## ⭐ Thanks for visiting my profile!
+## Let's Connect
 
-*"Building scalable applications, contributing to open source, and learning something new every day."*
+I'm interested in **backend engineering, full-stack development, AI-powered applications, and open-source projects**.
+
+If you're building something interesting, feel free to reach out.
+
+**Portfolio:** https://aastha-oswal.vercel.app
+**LinkedIn:** https://linkedin.com/in/aastha-oswal
+**GitHub:** https://github.com/AasthaOswal
+**Email:** [aasthaoswal29@gmail.com](mailto:aasthaoswal29@gmail.com)
+
+---
+
+<p align="center">
+  <i>Building things, breaking things, and understanding how they work.</i>
+</p>
